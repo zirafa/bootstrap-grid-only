@@ -211,39 +211,39 @@
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 @media (min-width: 768px) {
   .container {
-    width: 730px;
+    width: 722px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 950px;
+    width: 942px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1150px;
+    width: 1142px;
   }
 }
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 .row {
-  margin-left: -5px;
-  margin-right: -5px;
+  margin-left: -1px;
+  margin-right: -1px;
 }
 .col, .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12, .col-xs-13, .col-sm-13, .col-md-13, .col-lg-13, .col-xs-14, .col-sm-14, .col-md-14, .col-lg-14, .col-xs-15, .col-sm-15, .col-md-15, .col-lg-15, .col-xs-16, .col-sm-16, .col-md-16, .col-lg-16, .col-xs-17, .col-sm-17, .col-md-17, .col-lg-17, .col-xs-18, .col-sm-18, .col-md-18, .col-lg-18, .col-xs-19, .col-sm-19, .col-md-19, .col-lg-19, .col-xs-20, .col-sm-20, .col-md-20, .col-lg-20, .col-xs-21, .col-sm-21, .col-md-21, .col-lg-21, .col-xs-22, .col-sm-22, .col-md-22, .col-lg-22, .col-xs-23, .col-sm-23, .col-md-23, .col-lg-23, .col-xs-24, .col-sm-24, .col-md-24, .col-lg-24, .col-xs-25, .col-sm-25, .col-md-25, .col-lg-25, .col-xs-26, .col-sm-26, .col-md-26, .col-lg-26, .col-xs-27, .col-sm-27, .col-md-27, .col-lg-27, .col-xs-28, .col-sm-28, .col-md-28, .col-lg-28, .col-xs-29, .col-sm-29, .col-md-29, .col-lg-29, .col-xs-30, .col-sm-30, .col-md-30, .col-lg-30, .col-xs-31, .col-sm-31, .col-md-31, .col-lg-31, .col-xs-32, .col-sm-32, .col-md-32, .col-lg-32, .col-xs-33, .col-sm-33, .col-md-33, .col-lg-33, .col-xs-34, .col-sm-34, .col-md-34, .col-lg-34, .col-xs-35, .col-sm-35, .col-md-35, .col-lg-35, .col-xs-36, .col-sm-36, .col-md-36, .col-lg-36, .col-xs-37, .col-sm-37, .col-md-37, .col-lg-37, .col-xs-38, .col-sm-38, .col-md-38, .col-lg-38, .col-xs-39, .col-sm-39, .col-md-39, .col-lg-39, .col-xs-40, .col-sm-40, .col-md-40, .col-lg-40, .col-xs-41, .col-sm-41, .col-md-41, .col-lg-41, .col-xs-42, .col-sm-42, .col-md-42, .col-lg-42, .col-xs-43, .col-sm-43, .col-md-43, .col-lg-43, .col-xs-44, .col-sm-44, .col-md-44, .col-lg-44, .col-xs-45, .col-sm-45, .col-md-45, .col-lg-45, .col-xs-46, .col-sm-46, .col-md-46, .col-lg-46, .col-xs-47, .col-sm-47, .col-md-47, .col-lg-47, .col-xs-48, .col-sm-48, .col-md-48, .col-lg-48, .col-xs-49, .col-sm-49, .col-md-49, .col-lg-49, .col-xs-50, .col-sm-50, .col-md-50, .col-lg-50, .col-xs-51, .col-sm-51, .col-md-51, .col-lg-51, .col-xs-52, .col-sm-52, .col-md-52, .col-lg-52, .col-xs-53, .col-sm-53, .col-md-53, .col-lg-53, .col-xs-54, .col-sm-54, .col-md-54, .col-lg-54, .col-xs-55, .col-sm-55, .col-md-55, .col-lg-55, .col-xs-56, .col-sm-56, .col-md-56, .col-lg-56, .col-xs-57, .col-sm-57, .col-md-57, .col-lg-57, .col-xs-58, .col-sm-58, .col-md-58, .col-lg-58, .col-xs-59, .col-sm-59, .col-md-59, .col-lg-59, .col-xs-60, .col-sm-60, .col-md-60, .col-lg-60, .col-xs-61, .col-sm-61, .col-md-61, .col-lg-61, .col-xs-62, .col-sm-62, .col-md-62, .col-lg-62, .col-xs-63, .col-sm-63, .col-md-63, .col-lg-63, .col-xs-64, .col-sm-64, .col-md-64, .col-lg-64, .col-xs-65, .col-sm-65, .col-md-65, .col-lg-65, .col-xs-66, .col-sm-66, .col-md-66, .col-lg-66, .col-xs-67, .col-sm-67, .col-md-67, .col-lg-67, .col-xs-68, .col-sm-68, .col-md-68, .col-lg-68, .col-xs-69, .col-sm-69, .col-md-69, .col-lg-69, .col-xs-70, .col-sm-70, .col-md-70, .col-lg-70, .col-xs-71, .col-sm-71, .col-md-71, .col-lg-71, .col-xs-72, .col-sm-72, .col-md-72, .col-lg-72, .col-xs-73, .col-sm-73, .col-md-73, .col-lg-73, .col-xs-74, .col-sm-74, .col-md-74, .col-lg-74, .col-xs-75, .col-sm-75, .col-md-75, .col-lg-75, .col-xs-76, .col-sm-76, .col-md-76, .col-lg-76, .col-xs-77, .col-sm-77, .col-md-77, .col-lg-77, .col-xs-78, .col-sm-78, .col-md-78, .col-lg-78, .col-xs-79, .col-sm-79, .col-md-79, .col-lg-79, .col-xs-80, .col-sm-80, .col-md-80, .col-lg-80, .col-xs-81, .col-sm-81, .col-md-81, .col-lg-81, .col-xs-82, .col-sm-82, .col-md-82, .col-lg-82, .col-xs-83, .col-sm-83, .col-md-83, .col-lg-83, .col-xs-84, .col-sm-84, .col-md-84, .col-lg-84, .col-xs-85, .col-sm-85, .col-md-85, .col-lg-85, .col-xs-86, .col-sm-86, .col-md-86, .col-lg-86, .col-xs-87, .col-sm-87, .col-md-87, .col-lg-87, .col-xs-88, .col-sm-88, .col-md-88, .col-lg-88, .col-xs-89, .col-sm-89, .col-md-89, .col-lg-89, .col-xs-90, .col-sm-90, .col-md-90, .col-lg-90, .col-xs-91, .col-sm-91, .col-md-91, .col-lg-91, .col-xs-92, .col-sm-92, .col-md-92, .col-lg-92, .col-xs-93, .col-sm-93, .col-md-93, .col-lg-93, .col-xs-94, .col-sm-94, .col-md-94, .col-lg-94, .col-xs-95, .col-sm-95, .col-md-95, .col-lg-95, .col-xs-96, .col-sm-96, .col-md-96, .col-lg-96, .col-xs-97, .col-sm-97, .col-md-97, .col-lg-97, .col-xs-98, .col-sm-98, .col-md-98, .col-lg-98, .col-xs-99, .col-sm-99, .col-md-99, .col-lg-99, .col-xs-100, .col-sm-100, .col-md-100, .col-lg-100 {
   position: relative;
   min-height: 1px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 .col, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-13, .col-xs-14, .col-xs-15, .col-xs-16, .col-xs-17, .col-xs-18, .col-xs-19, .col-xs-20, .col-xs-21, .col-xs-22, .col-xs-23, .col-xs-24, .col-xs-25, .col-xs-26, .col-xs-27, .col-xs-28, .col-xs-29, .col-xs-30, .col-xs-31, .col-xs-32, .col-xs-33, .col-xs-34, .col-xs-35, .col-xs-36, .col-xs-37, .col-xs-38, .col-xs-39, .col-xs-40, .col-xs-41, .col-xs-42, .col-xs-43, .col-xs-44, .col-xs-45, .col-xs-46, .col-xs-47, .col-xs-48, .col-xs-49, .col-xs-50, .col-xs-51, .col-xs-52, .col-xs-53, .col-xs-54, .col-xs-55, .col-xs-56, .col-xs-57, .col-xs-58, .col-xs-59, .col-xs-60, .col-xs-61, .col-xs-62, .col-xs-63, .col-xs-64, .col-xs-65, .col-xs-66, .col-xs-67, .col-xs-68, .col-xs-69, .col-xs-70, .col-xs-71, .col-xs-72, .col-xs-73, .col-xs-74, .col-xs-75, .col-xs-76, .col-xs-77, .col-xs-78, .col-xs-79, .col-xs-80, .col-xs-81, .col-xs-82, .col-xs-83, .col-xs-84, .col-xs-85, .col-xs-86, .col-xs-87, .col-xs-88, .col-xs-89, .col-xs-90, .col-xs-91, .col-xs-92, .col-xs-93, .col-xs-94, .col-xs-95, .col-xs-96, .col-xs-97, .col-xs-98, .col-xs-99, .col-xs-100 {
   float: left;
