@@ -4,7 +4,7 @@ Bootstrap-Grid-Only (3.2.0)
 Bootstrap's grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Add styles to taste. 
 
 # Instructions
-Compile grid.css.less with command line lessc, LessPHP (no extends), or you can use the precompiled CSS files.
+Include one of the precompiled grids (grid12.css, grid24.css, grid30.css, grid100.css) in your site, or customize and compile grid.css.less with command line lessc, LessPHP (no extends are used). Variables are defined in grid.css.less.
 
 # Included
 - Standard [Bootstrap grid classes](http://getbootstrap.com/css/#grid): columns, offsets, push and pull classes
