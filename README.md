@@ -15,3 +15,6 @@ Include one of the precompiled grids (grid12.css, grid24.css, grid30.css, grid10
 
 # What's not included:
 - Pretty much everything else. It's really up to you. No styles, no javascript - there isn't even a reset.css or normalize.css included. 
+
+# Notes
+You could also use [Bootstrap's Customizer](http://getbootstrap.com/customize/) to compile only the grid + responsive utilities you need. Actually, I recommend trying that first (here's the equivalent [config.json](https://gist.github.com/anonymous/e9d4b16ac54805b9ec6f)). For my needs, I needed LESS files in order to do server-side compilation with LessPHP on a Drupal site. LessPHP doesn't support extends, which this version doesn't have. This may also save you time in having to sift through the Bootstrap LESS source files, and allow you to deconstruct how the grid is made. For instance, I had a project where I needed to change all the class names col-xs, col-md, col-sm, col-lg to match an existing convention: col-mobile, col-narrow, col-normal, col-wide. 
