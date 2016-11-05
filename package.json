@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-grid-only",
+  "name": "@zirafa/bootstrap-grid-only",
   "version": "1.0.0",
   "description": "Bootstrap's grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste. Works with LessPHP.",
   "main": "grid.css.less",
