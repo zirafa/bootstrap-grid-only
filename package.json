@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-grid-only",
+  "version": "1.0.0",
+  "description": "Bootstrap's grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste. Works with LessPHP.",
+  "main": "grid.css.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zirafa/bootstrap-grid-only"
+  },
+  "keywords": [
+    "bootstrap",
+    "grid",
+    "layout",
+    "css",
+    "less"
+  ],
+  "author": "Farsheed Hamidi-Toosi <zirafa@gmail.com> (http://zirafaworks.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zirafa/bootstrap-grid-only/issues"
+  },
+  "homepage": "https://github.com/zirafa/bootstrap-grid-only#readme"
+}
